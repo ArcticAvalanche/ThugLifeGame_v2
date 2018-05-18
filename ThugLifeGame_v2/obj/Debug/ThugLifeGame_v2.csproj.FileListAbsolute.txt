@@ -1,0 +1,15 @@
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\bin\Debug\ThugLifeGame_v2.exe.config
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\bin\Debug\ThugLifeGame_v2.exe
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\bin\Debug\ThugLifeGame_v2.pdb
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\MainWindow.g.cs
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\App.g.cs
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2_MarkupCompile.cache
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2_MarkupCompile.lref
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\MainWindow.baml
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2.g.resources
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2.Properties.Resources.resources
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2.csproj.GenerateResource.Cache
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2.csproj.CoreCompileInputs.cache
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2.exe
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2.pdb
+C:\Users\gamao\source\repos\ThugLifeGame_v2\ThugLifeGame_v2\obj\Debug\ThugLifeGame_v2.csprojResolveAssemblyReference.cache
